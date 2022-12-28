@@ -2,6 +2,7 @@
 # https://stackoverflow.com/q/74939927/8272292
 # Initially tried implementing custom logic but that didn't work out due to above. 
 # Therefore, falling back to library functions for decoding the signed ints/floats
+# "struct" library reference - https://docs.python.org/3/library/struct.html
 
 import base64
 import requests
